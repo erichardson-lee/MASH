@@ -4,10 +4,10 @@
 
 ## How to play MASH
 
-Write MASH on the top of a peice of paper
+Write MASH on the top of a piece of paper
 
-Then create a serieies of categories, (e.g. Job, Number of Children, Partner,
-Car etc.) and put 4 predictions for each.
+Then create a series of categories, (e.g. Job, Number of Children, Partner, Car
+etc.) and put 4 predictions for each.
 
 > The last option in each category SHOULD be a bad option
 
